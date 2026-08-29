@@ -1,7 +1,6 @@
 package com.example.alumnos;
-
-public class Renzo {
+public class JuanCarlos {
     public static void main(String[] args) {
-        System.out.println("Hola Mundo Nuevo:)");
+        System.out.println("primer commit");
     }
 }
